@@ -1,4 +1,4 @@
-fruits = ["apple", "banana", "cherry", "pipa", "Xrry", "Test", "Tetu", "TaTa", "Atatat"]
+fruits = ["a", "abc", "AAA", "buba", "Array", "Test", "Abobus", "Fix", "Fifa"]
 
 count_a = 0
 
