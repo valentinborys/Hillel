@@ -52,9 +52,11 @@ for marka, info in car_data.items():
     if price<=price_inp:
         filter_avto.append((marka, info))
 
-print(f"Автомобили, цена которых не привышает: {price_inp}$")
-print("\n")
+print(f"Выветсти автомобили, цена которых не привышает: {price_inp}$")
 
 for car, details in sorted(filter_avto, key=lambda x: x[1][4], reverse = True):
     color, year, engine, car_type, price = details
-    print(f"Автомобиль=> {car}, {color}: {year}, {engine}, {car_type}, ${price}")
+    print(f"Автомобиль=> {car}: {color}, {year}, {engine}, {car_type}, ${price}")
+
+if filter_avto == []:
+    print("\nАвтомобилей с вашим бюджетом нет:(")
