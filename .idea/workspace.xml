@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3990e019-6947-4a0c-b084-040c5c5d6802" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Task 11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task 12.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +25,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Task 11.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Task 12.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Task 6.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Task 9.py" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -45,6 +46,7 @@
     "Python.Task 1.executor": "Run",
     "Python.Task 10.executor": "Run",
     "Python.Task 11.executor": "Run",
+    "Python.Task 12.executor": "Run",
     "Python.Task 2.executor": "Run",
     "Python.Task 3.executor": "Run",
     "Python.Task 5.executor": "Run",
@@ -67,29 +69,7 @@
       <recent name="C:\Users\lenov\PycharmProjects\Hillel" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Task 11">
-    <configuration name="Task 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Education" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task 1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Task 12">
     <configuration name="Task 10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Education" />
       <option name="ENV_FILES" value="" />
@@ -126,6 +106,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task 11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Task 12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Education" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task 12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Task 12" />
         <item itemvalue="Python.Task 11" />
         <item itemvalue="Python.Task 10" />
         <item itemvalue="Python.Task 9" />
         <item itemvalue="Python.Task 2" />
-        <item itemvalue="Python.Task 1" />
       </list>
     </recent_temporary>
   </component>
